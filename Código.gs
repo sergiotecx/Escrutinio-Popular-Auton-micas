@@ -2,7 +2,7 @@
 Todo este código, ha sido copiado y pegado del proyecto 10N, por lo que habrá cambios sustanciales
 
 Los cambios previstos van encaminados a:
-PRUEBA SERGIO
+
 - La verificación y el recuento es el mismo proceso
 - No hay preferencias de asignaciones por provincias
 
